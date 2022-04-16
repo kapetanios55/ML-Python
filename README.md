@@ -7,5 +7,5 @@ Basic techniques
 - Adaline
 
 Included datasets
--Iris 
--Adult
+- Iris 
+- Adult
